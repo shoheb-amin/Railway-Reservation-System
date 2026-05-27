@@ -29,7 +29,7 @@ A console-based railway reservation system developed using Core Java and Object-
 ## Project Structure
 
 ```bash
-IRCTC-Train-Ticket-Booking-App/
+Railway-Reservation-System/
 │
 ├── src/
 │   ├── Main.java
